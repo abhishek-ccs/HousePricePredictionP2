@@ -8,6 +8,21 @@ import streamlit as st
 from model_utils import CSV_PATH, match_city, parse_locations, predict_price, train
 
 
+def price_in_words(amount):
+    """13893641 -> '1 Crore 38 Lakh' (Indian system, rounded down to the lakh)."""
+    lakhs_total = int(amount // 100_000)
+    crore, lakh = divmod(lakhs_total, 100)
+    parts = []
+    if crore:
+        parts.append(f"{crore:,} Crore")
+    if lakh:
+        parts.append(f"{lakh} Lakh")
+    if not parts:
+        thousand = int(amount // 1_000)
+        return f"{thousand} Thousand" if thousand else "Less than 1 Thousand"
+    return " ".join(parts)
+
+
 # --------------------------------------------------
 # PAGE CONFIGURATION
 # --------------------------------------------------
@@ -184,6 +199,14 @@ st.markdown(
         line-height: 1.3;
         overflow-wrap: anywhere;
         margin: 0.5rem 0;
+    }
+
+    .price-words {
+        color: #a6e5cf;
+        font-family: 'Manrope', sans-serif;
+        font-size: 1.35rem;
+        font-weight: 700;
+        margin-bottom: 0.6rem;
     }
 
     .price-note {
@@ -525,6 +548,9 @@ with result_column:
                     </div>
                     <div class="price-value">
                         ₹{prediction:,.0f}
+                    </div>
+                    <div class="price-words">
+                        ≈ {price_in_words(prediction)}
                     </div>
                     <div class="price-note">
                         Calculated using your existing ML model
