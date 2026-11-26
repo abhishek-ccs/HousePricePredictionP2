@@ -28,6 +28,26 @@ MODEL_PATH = BASE_DIR / "house_model.pkl"
 NUMERIC = ["Bedrooms", "Bathrooms", "Parking", "Floors"]
 
 
+# Other common spellings people type -> the name used in the data
+CITY_ALIASES = {
+    "bengaluru": "Bangalore", "bengalooru": "Bangalore", "blr": "Bangalore",
+    "gurugram": "Gurgaon", "new delhi": "Delhi", "ncr": "Delhi", "dilli": "Delhi",
+    "bombay": "Mumbai", "madras": "Chennai", "calcutta": "Kolkata",
+    "poona": "Pune", "hyd": "Hyderabad", "secunderabad": "Hyderabad",
+    "greater noida": "Noida",
+}
+
+
+def match_city(text, known_cities):
+    """Map what the user typed to a trained city name (or None if unknown)."""
+    key = " ".join(str(text).split()).casefold()
+    if not key:
+        return None
+    lookup = {c.casefold(): c for c in known_cities}
+    name = lookup.get(key) or CITY_ALIASES.get(key)
+    return name if name in known_cities else None
+
+
 def subarea_column(city: str, sub_area: str) -> str:
     return f"SubArea_{city}|{sub_area}"
 

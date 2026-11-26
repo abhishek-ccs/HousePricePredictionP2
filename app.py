@@ -5,7 +5,7 @@ from pathlib import Path
 import joblib
 import streamlit as st
 
-from model_utils import CSV_PATH, parse_locations, predict_price, train
+from model_utils import CSV_PATH, match_city, parse_locations, predict_price, train
 
 
 # --------------------------------------------------
@@ -277,7 +277,7 @@ MODEL_PATH = Path(__file__).resolve().parent / "house_model.pkl"
 def load_model():
     try:
         loaded = joblib.load(MODEL_PATH)
-        loaded.feature_names_in_  # make sure this is the sub-area model
+        _ = loaded.feature_names_in_  # make sure this is the sub-area model
         return loaded
     except Exception:
         if not Path(CSV_PATH).exists():
@@ -299,9 +299,7 @@ if regression is None:
 sub_areas_by_city, known_city_names = parse_locations(
     list(regression.feature_names_in_)
 )
-known_cities = {name.casefold(): name for name in known_city_names}
-OTHER_CITY = "Other city (type the name)"
-NO_SUBAREA = "Not sure - use city average"
+ANY_SUBAREA = "Any sub-area (city average)"
 
 
 # --------------------------------------------------
@@ -366,40 +364,37 @@ with input_column:
     )
 
     # Location widgets live OUTSIDE the form so the sub-area list
-    # updates immediately when the city changes.
-    city_choice = st.selectbox(
+    # updates as soon as the city is typed (press Enter).
+    city = st.text_input(
         "City",
-        known_city_names + [OTHER_CITY],
-        index=(
-            known_city_names.index("Delhi")
-            if "Delhi" in known_city_names else 0
-        ),
-        help="Pick a city. Sub-areas appear for supported cities.",
-    )
+        value="Delhi",
+        placeholder="Type any city, e.g. Bangalore, Pune, Goa...",
+        help="Type a city name and press Enter. Sub-areas appear for supported cities.",
+    ).strip()
 
-    if city_choice == OTHER_CITY:
-        city = st.text_input(
-            "Enter City Name",
-            value="",
-            help=(
-                "Lesser-known cities have no sub-area option; "
-                "an average estimate is shown instead."
-            ),
-        ).strip()
-    else:
-        city = city_choice
+    resolved_city = match_city(city, known_city_names)
 
-    # Resolve typed names such as "delhi" to the trained city name.
-    resolved_city = known_cities.get(city.casefold()) if city else None
-
-    sub_area = None
-    if resolved_city and sub_areas_by_city.get(resolved_city):
+    if resolved_city:
+        sub_options = [ANY_SUBAREA] + sub_areas_by_city.get(resolved_city, [])
         sub_choice = st.selectbox(
             f"Sub-area in {resolved_city}",
-            [NO_SUBAREA] + sub_areas_by_city[resolved_city],
+            sub_options,
             help=f"Only sub-areas of {resolved_city} are listed.",
         )
-        sub_area = None if sub_choice == NO_SUBAREA else sub_choice
+    elif city:
+        sub_choice = st.selectbox(
+            "Sub-area",
+            [ANY_SUBAREA],
+            help="Sub-area data is not available for this city yet.",
+        )
+        st.caption(
+            f"No sub-area data for “{city}” yet, so “Any sub-area” is used. "
+            "Supported cities: " + ", ".join(known_city_names) + "."
+        )
+    else:
+        sub_choice = ANY_SUBAREA
+
+    sub_area = None if sub_choice == ANY_SUBAREA else sub_choice
 
     with st.form("property_prediction_form"):
 

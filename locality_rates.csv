@@ -1,0 +1,106 @@
+City,SubArea,Rate_per_sqft_INR,Source
+Delhi,Jor Bagh,56800,HomeBazaar 2026
+Delhi,Shanti Niketan,45150,HomeBazaar 2026
+Delhi,Hauz Khas,31250,HomeBazaar 2026
+Delhi,Greater Kailash II,31000,HomeBazaar 2026
+Delhi,Vasant Kunj,22150,HomeBazaar 2026
+Delhi,Rajouri Garden,19150,HomeBazaar 2026
+Delhi,Pitampura,18900,HomeBazaar 2026
+Delhi,Mayur Vihar Phase 1,17200,HomeBazaar 2026
+Delhi,Dwarka (Sector 10),15900,HomeBazaar 2026
+Delhi,Rohini (Sector 24),11000,HomeBazaar 2026
+Delhi,Dilshad Garden,8750,HomeBazaar 2026
+Delhi,Laxmi Nagar,7300,HomeBazaar 2026
+Mumbai,Worli,65000,Square Yards 2026
+Mumbai,Bandra West,60000,midpoint of portal ranges 2026
+Mumbai,Powai,42000,Square Yards 2026
+Mumbai,Andheri West,40000,midpoint of portal ranges 2026
+Mumbai,Malad,28000,midpoint of portal ranges 2026
+Mumbai,Goregaon,26000,midpoint of portal ranges 2026
+Mumbai,Borivali,23000,midpoint of portal ranges 2026
+Mumbai,Thane,19000,NoBroker 2026
+Mumbai,Navi Mumbai,10500,midpoint of portal ranges 2026
+Bangalore,Indiranagar,20200,HomeBazaar 2026
+Bangalore,Koramangala,16650,HomeBazaar 2026
+Bangalore,Bellandur,15400,HomeBazaar 2026
+Bangalore,Hebbal,14450,HomeBazaar 2026
+Bangalore,Whitefield,14050,HomeBazaar 2026
+Bangalore,Jayanagar,15000,HomeBazaar 2026
+Bangalore,HSR Layout,12750,HomeBazaar 2026
+Bangalore,Marathahalli,12300,HomeBazaar 2026
+Bangalore,JP Nagar,10550,HomeBazaar 2026
+Bangalore,Yelahanka,10350,HomeBazaar 2026
+Bangalore,Electronic City,7200,HomeBazaar 2026
+Hyderabad,Jubilee Hills,12600,midpoint of portal ranges 2026
+Hyderabad,Banjara Hills,12500,midpoint of portal ranges 2026
+Hyderabad,Hi-Tech City,12000,HomeBazaar 2026
+Hyderabad,Gachibowli,11000,HomeBazaar 2026
+Hyderabad,Madhapur,10800,HomeBazaar 2026
+Hyderabad,Kondapur,10150,HomeBazaar 2026
+Hyderabad,Kukatpally,6700,midpoint of portal ranges 2026
+Hyderabad,Uppal,6050,HomeBazaar 2026
+Chennai,Besant Nagar,20900,HomeBazaar 2026
+Chennai,T. Nagar,19950,HomeBazaar 2026
+Chennai,Adyar,17250,HomeBazaar 2026
+Chennai,Anna Nagar,16150,HomeBazaar 2026
+Chennai,Thiruvanmiyur,14500,HomeBazaar 2026
+Chennai,Vadapalani,11600,HomeBazaar 2026
+Chennai,Velachery,9400,HomeBazaar 2026
+Chennai,Porur,8500,NoBroker 2026
+Chennai,OMR (Sholinganallur),7800,midpoint of portal ranges 2026
+Chennai,Tambaram,6900,HomeBazaar 2026
+Pune,Koregaon Park,18400,HomeBazaar 2026
+Pune,Kalyani Nagar,16300,HomeBazaar 2026
+Pune,Kothrud,14400,HomeBazaar 2026
+Pune,Aundh,12500,HomeBazaar 2026
+Pune,Baner,11700,HomeBazaar 2026
+Pune,Hadapsar,11400,HomeBazaar 2026
+Pune,Kharadi,11150,HomeBazaar 2026
+Pune,Hinjewadi,8200,HomeBazaar 2026
+Pune,Wakad,8200,HomeBazaar 2026
+Pune,Pimpri-Chinchwad,7000,midpoint of portal ranges 2026
+Pune,Wagholi,6500,HomeBazaar 2026
+Kolkata,Park Street,15000,midpoint of portal ranges 2026
+Kolkata,Alipore,13500,midpoint of portal ranges 2026
+Kolkata,Ballygunge,12300,midpoint of portal ranges 2026
+Kolkata,Salt Lake,11500,midpoint of portal ranges 2026
+Kolkata,New Alipore,11500,Square Yards 2026
+Kolkata,New Town,8000,midpoint of portal ranges 2026
+Kolkata,Dhakuria,6750,HomeBazaar 2026
+Kolkata,Joka,5650,HomeBazaar 2026
+Kolkata,Behala,4600,midpoint of portal ranges 2026
+Kolkata,Howrah,3100,Square Yards 2026
+Lucknow,Mahanagar,9850,Square Yards 2026
+Lucknow,Vibhuti Khand,8000,Square Yards 2026
+Lucknow,Gomti Nagar,7250,Square Yards 2026
+Lucknow,Sushant Golf City,7000,Square Yards 2026
+Lucknow,Hazratganj,6000,Square Yards 2026
+Lucknow,Sultanpur Road,5500,Square Yards 2026
+Lucknow,Aliganj,5300,Square Yards 2026
+Lucknow,Jankipuram,5200,Square Yards 2026
+Lucknow,Alambagh,4530,Square Yards 2026
+Lucknow,Indira Nagar,4400,Square Yards 2026
+Noida,Sector 128,17000,Square Yards 2026
+Noida,Sector 50,14100,RealtyHunting 2026
+Noida,Sector 142,13300,Square Yards 2026
+Noida,Sector 150,12200,Square Yards 2026
+Noida,Sector 62,10500,midpoint of portal ranges 2026
+Noida,Sector 76,10450,Housing.com 2026
+Noida,Sector 137,10200,Square Yards 2026
+Noida,Greater Noida West,8500,Square Yards 2026
+Jaipur,C-Scheme,13300,Square Yards 2026
+Jaipur,Siddharth Nagar,12150,Square Yards 2026
+Jaipur,Bani Park,8240,Square Yards 2026
+Jaipur,Malviya Nagar,7820,Square Yards 2026
+Jaipur,Vaishali Nagar,5600,Square Yards 2026
+Jaipur,Tonk Road,5350,Square Yards 2026
+Jaipur,Jagatpura,5000,Square Yards 2026
+Jaipur,Mansarovar,4380,Square Yards 2026
+Jaipur,Ajmer Road,4250,Square Yards 2026
+Gurgaon,Golf Course Road,27200,midpoint of portal ranges 2026
+Gurgaon,DLF Phase 4,21500,Square Yards 2026
+Gurgaon,Golf Course Extension Road,19100,midpoint of portal ranges 2026
+Gurgaon,Dwarka Expressway,14000,midpoint of portal ranges 2026
+Gurgaon,Sohna Road,13500,midpoint of portal ranges 2026
+Gurgaon,Udyog Vihar,10100,midpoint of portal ranges 2026
+Gurgaon,Sector 82,9300,Square Yards 2026
