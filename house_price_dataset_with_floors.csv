@@ -1,0 +1,301 @@
+Area,Bedrooms,Bathrooms,Parking,City,SubArea,Price,Floors
+702,2,2,1,Mumbai,Thane,6770000,2
+2833,5,4,0,Mumbai,Chembur,37490000,2
+1495,3,2,1,Mumbai,Borivali,17380000,3
+2318,4,4,0,Chennai,Adyar,22540000,2
+2331,4,4,1,Bangalore,Jayanagar,26350000,1
+1018,1,1,2,Jaipur,Tonk Road,4590000,3
+1683,4,4,0,Jaipur,Malviya Nagar,10510000,3
+922,2,2,1,Lucknow,Indira Nagar,4850000,2
+787,2,2,0,Mumbai,Bandra West,19160000,1
+1013,2,3,2,Hyderabad,HITEC City,8400000,1
+2055,4,4,0,Jaipur,Malviya Nagar,11780000,2
+2787,5,4,3,Bangalore,Koramangala,34890000,4
+2881,5,4,0,Pune,Koregaon Park,32860000,3
+1892,4,3,1,Delhi,Saket,22660000,3
+1888,3,4,3,Noida,Sector 62,12830000,2
+1185,2,2,2,Kolkata,Howrah,4720000,1
+2354,5,4,2,Noida,Greater Noida West,10610000,3
+2687,5,4,0,Bangalore,Jayanagar,29360000,1
+2329,5,4,3,Bangalore,Sarjapur Road,19360000,3
+2767,5,4,0,Kolkata,New Town,15810000,3
+1692,4,4,0,Chennai,T. Nagar,16180000,3
+1247,2,2,1,Lucknow,Mahanagar,6340000,1
+1822,4,4,1,Mumbai,Navi Mumbai,16240000,4
+2809,5,4,2,Bangalore,Sarjapur Road,22550000,4
+1058,3,3,1,Delhi,Rohini,7580000,2
+2923,5,4,3,Hyderabad,Uppal,13810000,2
+2781,5,4,3,Mumbai,Andheri West,41920000,2
+1276,2,3,1,Chennai,Adyar,13210000,1
+1423,3,4,2,Chennai,Velachery,10520000,1
+2449,4,4,0,Chennai,Velachery,16440000,2
+2868,5,4,0,Delhi,Saket,32320000,3
+1537,2,1,2,Delhi,Hauz Khas,18890000,3
+1574,3,4,1,Chennai,Adyar,15900000,1
+2938,5,4,3,Bangalore,Indiranagar,37140000,2
+1379,2,3,2,Lucknow,Hazratganj,9370000,1
+2512,5,4,0,Lucknow,Hazratganj,15970000,2
+1989,4,3,1,Lucknow,Alambagh,6870000,1
+2796,5,4,1,Hyderabad,Jubilee Hills,31020000,2
+1623,4,3,3,Kolkata,Behala,7810000,1
+1001,1,1,0,Chennai,Anna Nagar,8930000,2
+1281,2,3,1,Hyderabad,Uppal,6320000,1
+840,1,1,3,Lucknow,Alambagh,2890000,2
+1768,3,4,1,Kolkata,Salt Lake,11620000,3
+1491,4,3,2,Pune,Koregaon Park,18060000,2
+2992,5,4,0,Delhi,Janakpuri,27290000,3
+1361,2,1,1,Mumbai,Bandra West,30510000,2
+2933,5,4,0,Mumbai,Chembur,39110000,2
+2915,5,4,1,Noida,Sector 62,18440000,2
+1577,3,3,2,Jaipur,C-Scheme,12780000,2
+897,1,1,0,Jaipur,Tonk Road,3640000,1
+2672,5,4,0,Hyderabad,Miyapur,14370000,2
+2113,4,4,2,Hyderabad,Jubilee Hills,24640000,1
+632,2,2,0,Chennai,Tambaram,3720000,2
+1683,3,2,1,Bangalore,Indiranagar,20560000,2
+1462,3,3,2,Pune,Kalyani Nagar,16190000,2
+1628,4,3,0,Kolkata,Behala,7380000,3
+1733,3,3,1,Lucknow,Hazratganj,11760000,2
+1261,3,4,0,Pune,Kalyani Nagar,13740000,2
+1210,2,2,1,Mumbai,Worli,29350000,1
+771,1,1,2,Bangalore,Electronic City,5000000,1
+1021,2,3,1,Hyderabad,Kukatpally,6470000,2
+1265,3,3,3,Hyderabad,HITEC City,10490000,1
+1960,4,4,1,Bangalore,HSR Layout,19430000,2
+1042,2,1,3,Bangalore,Electronic City,6970000,2
+2485,5,4,1,Hyderabad,Banjara Hills,27620000,3
+2232,4,3,2,Hyderabad,Kondapur,15450000,2
+2237,5,4,0,Chennai,Perambur,11480000,3
+1331,3,3,0,Pune,Hadapsar,9040000,1
+2379,5,4,3,Noida,Sector 50,16620000,1
+1073,2,2,2,Chennai,T. Nagar,9790000,1
+606,1,1,2,Lucknow,Gomti Nagar,3980000,1
+1952,4,3,2,Mumbai,Borivali,22650000,2
+2272,4,4,1,Pune,Kothrud,19540000,3
+2152,5,4,2,Lucknow,Mahanagar,11580000,2
+601,1,1,3,Chennai,Anna Nagar,6280000,1
+1919,4,4,1,Noida,Sector 137,12670000,2
+1295,3,3,2,Kolkata,Tollygunge,7300000,1
+1871,3,3,1,Hyderabad,Miyapur,9540000,2
+1602,4,3,3,Delhi,Laxmi Nagar,10860000,2
+1396,3,4,3,Noida,Sector 128,11680000,2
+1204,3,2,0,Hyderabad,Gachibowli,9740000,2
+1496,2,3,0,Lucknow,Aliganj,6490000,1
+1097,2,3,2,Hyderabad,Gachibowli,9430000,2
+2667,5,4,1,Kolkata,New Town,15540000,2
+2443,5,4,2,Kolkata,Garia,11720000,1
+2584,5,4,3,Chennai,Anna Nagar,23060000,1
+1560,3,3,0,Pune,Kalyani Nagar,16200000,2
+1547,3,3,1,Bangalore,Jayanagar,17060000,1
+2269,4,4,3,Lucknow,Aliganj,9930000,1
+2320,4,3,3,Hyderabad,Banjara Hills,26280000,2
+2040,4,4,3,Delhi,Vasant Vihar,33130000,1
+1503,3,3,3,Chennai,Porur,9300000,2
+2192,4,4,1,Delhi,Dwarka,16620000,2
+1122,3,2,3,Kolkata,Tollygunge,6910000,1
+711,1,2,1,Noida,Sector 150,6410000,1
+1344,2,3,2,Kolkata,Alipore,13100000,2
+1938,4,4,2,Kolkata,Alipore,20290000,2
+1633,4,4,0,Lucknow,Gomti Nagar,11270000,1
+813,2,2,1,Chennai,Porur,5280000,1
+764,2,2,1,Mumbai,Andheri West,12220000,3
+1224,2,3,0,Delhi,Vasant Vihar,19580000,3
+2504,5,4,1,Hyderabad,Miyapur,13510000,3
+1069,3,3,2,Noida,Sector 137,7320000,1
+705,2,3,3,Noida,Sector 50,6340000,3
+911,2,2,0,Hyderabad,Miyapur,5140000,2
+1095,3,2,2,Pune,Kalyani Nagar,12540000,2
+2117,4,4,0,Lucknow,Indira Nagar,10260000,2
+2607,5,4,3,Lucknow,Chinhat,9030000,2
+2383,4,4,3,Bangalore,Yelahanka,17180000,1
+1699,3,3,0,Lucknow,Indira Nagar,7590000,3
+1598,4,4,2,Kolkata,Salt Lake,11060000,2
+1931,3,3,2,Kolkata,Salt Lake,13090000,1
+1994,4,4,0,Pune,Hinjewadi,14580000,2
+950,1,2,3,Hyderabad,Banjara Hills,11240000,2
+2550,5,4,3,Hyderabad,Kondapur,18460000,2
+981,2,3,1,Delhi,Janakpuri,9390000,3
+2111,4,4,3,Noida,Sector 150,17760000,3
+1954,4,4,2,Chennai,Perambur,10360000,3
+1544,2,2,2,Pune,Baner,13950000,1
+1358,2,3,2,Chennai,OMR,8870000,2
+2748,5,4,1,Noida,Sector 76,16320000,3
+2078,4,3,1,Hyderabad,Gachibowli,15680000,2
+823,2,2,3,Delhi,Greater Kailash,12310000,1
+2951,5,4,3,Delhi,Vasant Vihar,46210000,2
+810,1,2,0,Bangalore,HSR Layout,8290000,1
+2241,4,3,1,Mumbai,Chembur,29790000,2
+1844,3,3,0,Noida,Sector 150,14490000,2
+1524,3,4,3,Lucknow,Alambagh,6350000,1
+1817,4,4,2,Kolkata,New Town,11180000,1
+846,2,1,1,Noida,Sector 137,5700000,2
+1683,4,4,1,Hyderabad,Kondapur,12090000,1
+907,1,2,3,Chennai,Porur,5740000,3
+2524,5,4,2,Noida,Sector 18,19030000,3
+2459,4,4,2,Pune,Hadapsar,17040000,2
+1410,3,3,1,Noida,Sector 62,9790000,2
+1182,2,2,2,Pune,Pimpri-Chinchwad,6480000,1
+1782,3,4,2,Noida,Sector 50,12530000,4
+1715,3,4,3,Lucknow,Hazratganj,11630000,2
+763,2,2,2,Noida,Sector 76,4780000,2
+1537,4,3,2,Mumbai,Navi Mumbai,13980000,1
+1317,3,4,2,Delhi,Rohini,9540000,1
+2385,5,4,0,Noida,Greater Noida West,10700000,2
+2272,4,3,1,Jaipur,C-Scheme,17110000,3
+2629,5,4,0,Lucknow,Indira Nagar,12000000,3
+1888,3,2,3,Mumbai,Borivali,21910000,2
+604,1,2,3,Chennai,Velachery,4340000,1
+2723,5,4,3,Hyderabad,HITEC City,22240000,2
+1433,2,2,2,Delhi,Laxmi Nagar,9220000,2
+1097,1,1,1,Kolkata,Howrah,3710000,1
+656,1,1,1,Chennai,Porur,4180000,1
+2490,5,4,3,Mumbai,Powai,39620000,3
+2684,5,4,3,Pune,Baner,25710000,4
+2470,5,4,1,Hyderabad,HITEC City,20380000,2
+2681,5,4,0,Noida,Greater Noida West,11670000,3
+1992,5,4,0,Lucknow,Chinhat,6840000,2
+2975,5,4,1,Pune,Pimpri-Chinchwad,15520000,3
+2583,5,4,3,Chennai,Tambaram,13020000,2
+1372,4,4,3,Jaipur,Sodala,8850000,2
+778,1,2,3,Lucknow,Mahanagar,4330000,2
+2628,5,4,2,Bangalore,Whitefield,24000000,3
+2403,4,4,0,Mumbai,Bandra West,55160000,1
+2279,5,4,0,Bangalore,Jayanagar,25710000,4
+1986,4,4,0,Pune,Pimpri-Chinchwad,10940000,1
+2785,5,4,3,Jaipur,Ajmer Road,9830000,1
+747,2,2,2,Chennai,T. Nagar,7490000,2
+2377,5,4,3,Mumbai,Worli,58160000,2
+718,1,1,2,Pune,Koregaon Park,8410000,2
+2364,4,4,1,Jaipur,Sodala,12790000,3
+923,2,3,1,Bangalore,Yelahanka,7050000,1
+1186,2,2,3,Noida,Sector 18,8800000,3
+2505,5,4,0,Delhi,Greater Kailash,35930000,2
+1825,4,4,2,Jaipur,Vaishali Nagar,10460000,2
+1415,4,4,0,Pune,Hinjewadi,10710000,2
+2942,5,4,2,Lucknow,Rajajipuram,8630000,4
+1724,3,2,3,Lucknow,Chinhat,6040000,1
+1542,3,3,1,Pune,Kothrud,13890000,1
+1626,4,4,0,Hyderabad,Gachibowli,13490000,2
+1865,4,3,2,Delhi,Vasant Vihar,30380000,4
+969,3,3,3,Bangalore,Indiranagar,13240000,3
+1141,3,3,2,Hyderabad,Uppal,6050000,2
+1652,4,4,2,Bangalore,Koramangala,22170000,3
+1071,2,1,1,Jaipur,Mansarovar,5130000,3
+2227,5,4,0,Hyderabad,Kukatpally,13040000,3
+657,1,1,3,Lucknow,Gomti Nagar,4350000,1
+2994,5,4,0,Pune,Wagholi,14550000,3
+2531,4,4,1,Hyderabad,Jubilee Hills,28510000,3
+2501,5,4,3,Mumbai,Borivali,28750000,2
+785,2,2,3,Bangalore,Koramangala,10340000,1
+1561,4,4,3,Mumbai,Powai,25370000,3
+2812,5,4,3,Jaipur,Jagatpura,11840000,2
+2604,5,4,0,Mumbai,Andheri West,38770000,4
+1489,3,3,2,Jaipur,Vaishali Nagar,8020000,1
+2830,5,4,0,Jaipur,Ajmer Road,9330000,2
+1377,4,4,0,Pune,Kothrud,13160000,3
+687,1,1,1,Hyderabad,Jubilee Hills,7210000,1
+1440,2,2,1,Noida,Sector 76,8810000,1
+1945,4,3,2,Hyderabad,Kukatpally,11510000,2
+1132,2,2,0,Bangalore,Koramangala,14350000,3
+1139,2,2,2,Delhi,Greater Kailash,16050000,1
+1686,3,4,0,Bangalore,Indiranagar,21700000,2
+2550,5,4,0,Mumbai,Bandra West,58380000,3
+1507,4,3,2,Chennai,Tambaram,7790000,4
+849,2,3,3,Delhi,Rohini,6680000,2
+2608,5,4,0,Mumbai,Navi Mumbai,23070000,2
+1919,4,3,1,Mumbai,Powai,29760000,1
+2997,5,4,3,Noida,Greater Noida West,13370000,2
+1807,4,4,0,Chennai,T. Nagar,17760000,1
+2858,5,4,3,Mumbai,Andheri West,42470000,3
+2294,4,4,3,Hyderabad,Kukatpally,13150000,1
+1880,4,4,2,Mumbai,Andheri West,29030000,2
+2542,4,3,0,Bangalore,Yelahanka,17640000,3
+2126,5,4,2,Mumbai,Borivali,25090000,3
+2282,4,4,0,Mumbai,Worli,54950000,1
+1879,4,4,1,Noida,Sector 128,15120000,3
+1518,4,4,2,Kolkata,Garia,7460000,3
+2951,5,4,0,Pune,Wagholi,14320000,3
+718,1,1,2,Pune,Koregaon Park,8400000,1
+1343,3,4,0,Delhi,Dwarka,10110000,1
+975,2,2,3,Delhi,Hauz Khas,13280000,3
+1996,3,3,2,Kolkata,Howrah,7580000,2
+947,3,3,1,Noida,Sector 128,8620000,1
+803,2,2,3,Noida,Sector 76,5730000,1
+2589,5,4,2,Lucknow,Gomti Nagar,15880000,3
+1066,2,1,2,Chennai,Anna Nagar,9910000,3
+2593,5,4,0,Noida,Sector 128,19360000,2
+824,1,1,1,Lucknow,Rajajipuram,2640000,3
+1646,3,2,0,Bangalore,HSR Layout,15920000,1
+1319,2,2,2,Lucknow,Aliganj,5450000,2
+773,1,2,0,Lucknow,Mahanagar,4360000,2
+2958,5,4,3,Jaipur,Malviya Nagar,16250000,2
+2259,4,4,1,Mumbai,Thane,21600000,1
+2484,5,4,0,Noida,Sector 137,15780000,2
+1596,3,4,0,Mumbai,Worli,39110000,3
+1990,4,4,0,Pune,Hinjewadi,14550000,2
+2773,5,4,2,Mumbai,Thane,26360000,4
+1567,2,2,1,Bangalore,Electronic City,10010000,2
+1226,3,2,1,Noida,Sector 50,9050000,1
+2500,5,4,2,Kolkata,Ballygunge,22530000,3
+1218,2,3,3,Jaipur,Sodala,7590000,1
+1725,4,4,0,Pune,Baner,16730000,1
+2451,4,4,2,Kolkata,Alipore,23260000,3
+2676,5,4,3,Mumbai,Powai,42270000,3
+1371,2,3,1,Noida,Sector 18,9650000,1
+1023,3,3,0,Kolkata,Salt Lake,7510000,2
+760,1,2,3,Bangalore,Sarjapur Road,6540000,2
+1250,2,2,3,Chennai,OMR,7920000,3
+814,2,2,0,Jaipur,Jagatpura,3480000,2
+2885,5,4,2,Mumbai,Navi Mumbai,25390000,2
+1215,2,2,2,Noida,Sector 18,8880000,1
+1128,2,1,2,Lucknow,Aliganj,5060000,1
+1945,4,3,3,Lucknow,Rajajipuram,6330000,2
+674,1,1,1,Jaipur,Vaishali Nagar,3460000,3
+1386,2,2,1,Kolkata,Ballygunge,11100000,1
+1014,2,1,2,Pune,Hadapsar,7390000,1
+1136,2,2,1,Noida,Sector 150,8780000,1
+1278,3,2,3,Noida,Sector 50,9020000,2
+2419,5,4,1,Hyderabad,Banjara Hills,27760000,3
+1867,4,4,1,Hyderabad,Kondapur,13380000,1
+2404,5,4,3,Noida,Sector 18,18230000,1
+2314,5,4,1,Chennai,Tambaram,11680000,3
+813,2,2,0,Pune,Wagholi,4340000,1
+1110,2,2,2,Chennai,OMR,7100000,2
+1203,3,2,1,Chennai,Velachery,8990000,1
+2031,5,4,0,Kolkata,Garia,9650000,2
+2131,4,3,2,Chennai,OMR,13060000,3
+1905,4,4,1,Delhi,Saket,22170000,1
+1775,4,4,1,Delhi,Janakpuri,17230000,2
+2437,5,4,0,Kolkata,Alipore,23520000,2
+1212,3,4,0,Hyderabad,Banjara Hills,15220000,1
+1573,3,2,1,Pune,Kothrud,13610000,1
+2472,4,4,0,Noida,Sector 62,15580000,1
+2955,5,4,2,Chennai,Adyar,28140000,2
+2045,4,4,1,Delhi,Dwarka,15510000,1
+2744,5,4,0,Mumbai,Powai,42230000,3
+778,2,2,2,Kolkata,Tollygunge,5070000,2
+2062,5,4,1,Delhi,Hauz Khas,27860000,2
+2983,5,4,1,Mumbai,Thane,27660000,2
+2836,5,4,3,Jaipur,C-Scheme,22510000,3
+1346,3,2,3,Kolkata,New Town,7780000,3
+1425,2,2,0,Pune,Hadapsar,9270000,3
+2711,5,4,2,Pune,Baner,25230000,1
+1771,3,2,2,Hyderabad,Uppal,8050000,1
+2107,4,4,3,Mumbai,Worli,52760000,1
+1988,5,4,3,Lucknow,Alambagh,7700000,2
+1692,4,4,0,Chennai,Perambur,9090000,2
+1339,3,3,0,Noida,Sector 128,10120000,1
+1810,3,4,1,Jaipur,Mansarovar,8740000,1
+2039,4,4,3,Kolkata,Ballygunge,18110000,2
+907,2,3,2,Delhi,Laxmi Nagar,6370000,2
+727,1,2,0,Bangalore,Whitefield,6200000,1
+1566,4,4,2,Mumbai,Chembur,21930000,3
+732,2,3,2,Noida,Sector 150,6830000,1
+914,2,2,3,Kolkata,Ballygunge,8540000,3
+1622,4,3,1,Pune,Pimpri-Chinchwad,8960000,1
+2185,5,4,2,Chennai,Perambur,11980000,3
+2427,4,4,3,Pune,Hinjewadi,17380000,3
+1155,3,4,1,Mumbai,Bandra West,28580000,3
+959,2,2,2,Kolkata,Behala,4620000,2
+2852,5,4,1,Mumbai,Chembur,38500000,3
+2080,4,3,1,Bangalore,Whitefield,18890000,2
